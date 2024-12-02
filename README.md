@@ -1,4 +1,4 @@
-# PRODIGY_INFOTECH_CS_04
+# Simple KeyLogger using Python
 
 # Keylogger
 
